@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whiteboard</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    
+    <canvas id="whiteboard"></canvas>
+  <center>  
+  <div class="controls">
+    <h2>White board Drawing</h2>
+        <input type="color" id="colorPicker">
+        <input type="range" id="brushSize" min="1" max="50" value="5">
+        <button onclick="undo()" class="btn">Undo</button>
+        <button onclick="redo()" class="btn">Redo</button>
+        <button onclick="clearCanvas()" class="btn">Clear</button>
+        <button onclick="saveCanvas()" class="btn">Save</button>
+      
+        <a style="color:blue;"href="https://github.com/Akshayadeveloper"target="_blank">
+   &#128151;Akshaya developer &#128159;</a> 
+    </div>
+    </center>
+ 
+<script src="./script.js"></script>
+</body>
+</html>
