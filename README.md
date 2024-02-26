@@ -3,14 +3,17 @@ The Whiteboard Drawing Application is a web-based tool designed to provide users
 For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Whiteboard-Interactive-app/index.html 
 For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
 <br><br>
-<p><b>Mobile 📲 version</b></p>
-<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_122223.jpg">
-<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_122015.jpg">
-
 <p><b>Demo</b></p>
+<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_130756.jpg">
+<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_130806.jpg">
+<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_130816.jpg">
 <img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_122354.jpg">
 
+<p><b>Mobile 📲 version</b></p>
+<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/IMG_20240226_122223.jpg">
+
 <p><b>Download View</b></p>
+<img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/whiteboard (1).png">
 <img src="https://github.com/Akshayadeveloper/Whiteboard-Interactive-app/blob/main/whiteboard (4).png">
 
 **Project Description: Whiteboard Drawing Application**
